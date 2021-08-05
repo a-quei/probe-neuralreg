@@ -1,1 +1,1 @@
-# prob-neuralreg
+# probe-neuralreg
